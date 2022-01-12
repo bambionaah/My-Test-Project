@@ -8,3 +8,6 @@ blue
 indigo
 violet
 pink
+brown
+
+these are the colors 
