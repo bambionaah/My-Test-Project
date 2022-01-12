@@ -10,5 +10,6 @@ indigo
 violet
 pink
 brown
+gray
 
 these are the colors 
